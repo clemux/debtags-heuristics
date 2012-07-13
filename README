@@ -1,0 +1,7 @@
+This is a temporary repository for debtags heuristics extracted from
+debtagsd.
+
+All or most of the code here is a copy from Enrico Zini's
+debtagsd:
+http://anonscm.debian.org/gitweb/?p=debtags/debtagsd.git;a=summary
+
